@@ -1,4 +1,5 @@
 ### こんにちは！ぐれべことFuguFXです！
+　　自分は主にScratchで活動しています。
 
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
