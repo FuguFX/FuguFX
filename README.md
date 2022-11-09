@@ -2,9 +2,8 @@
 コメント欄
 https://github.com/FuguFX/Comments/issues/1
 
-ウェブサイト
-https://fugufx.github.io/Grebe.github.io/
-
+ウェブサイト （リニューアルしました！）
+https://fugufx.github.io/WebSite.github.io/
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
