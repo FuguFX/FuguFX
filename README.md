@@ -1,15 +1,10 @@
 ### ぐれべです！
-コメント欄
-https://github.com/FuguFX/Comments/issues/1
+[コメント欄](https://github.com/FuguFX/Comments/issues/1)
 
-ウェブサイト （リニューアルしました！）
-https://fugufx.github.io/WebSite.github.io/
+[ウェブサイト](https://fugufx.github.io/)
 
-JavaScriptをどうやって使うのが分からなくて放置して約3ヶ月
+[ぐれべの素材集(テスト)](https://fugufx.github.io/assets/assets.html)
 
-あと自分のサイトみんな見れないみたいですね😒
-
-残念
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
