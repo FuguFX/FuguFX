@@ -3,7 +3,7 @@
 
 [ウェブサイト](https://fugufx.github.io/)
 
-[ぐれべの素材集(テスト)](https://fugufx.github.io/assets/assets.html)
+[ぐれべの素材集(テスト)](https://fugufx.github.io/assets/asset-home.html)
 
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
