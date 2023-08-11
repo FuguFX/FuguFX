@@ -1,11 +1,9 @@
 ### ぐれべです！
 [コメント欄](https://github.com/FuguFX/Comments/issues/1)
 
-[ウェブサイト](https://fugufx.github.io/)
+[私について](https://fugufx.github.io/)
 
-[ぐれべの素材集(テスト)](https://fugufx.github.io/assets/asset-home.html)
-
-[歴史的出来事の起こった年クイズ](https://fugufx.github.io/history/)
+[歴史クイズ](https://fugufx.github.io/history/)
 
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
