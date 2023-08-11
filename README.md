@@ -5,6 +5,8 @@
 
 [ぐれべの素材集(テスト)](https://fugufx.github.io/assets/asset-home.html)
 
+[歴史的出来事の起こった年クイズ](https://fugufx.github.io/history/)
+
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
