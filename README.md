@@ -1,7 +1,7 @@
 ### ぐれべです！
 [コメント欄](https://github.com/FuguFX/Comments/issues/1)
 
-[ウェブサイト](https://fugufx.github.io/fugufx.html)
+[ウェブサイト](https://fugufx.github.io)
 
 
 <!--
