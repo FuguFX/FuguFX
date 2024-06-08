@@ -1,7 +1,7 @@
 ### ぐれべです！
 [コメント欄](https://github.com/FuguFX/Comments/issues/1)
 
-[ウェブサイト](https://fugufx.github.io)←リニューアル
+[ウェブサイト](https://fugufx.github.io/)←いい感じにリニューアルしました！（トカゲが苦手な人は注意してください...）
 
 
 <!--
