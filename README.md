@@ -1,8 +1,8 @@
-### ぐれべです！
-### Scratchのアカウントは消したのですが、新しく[@-eberg-](https://scratch.mit.edu/users/-eberg-/)というアカウントを作ることになりました...
-[コメント欄](https://github.com/FuguFX/Comments/issues/1)
+### 元ぐれべです！
+### NewScratchAccount...[@-eberg-](https://scratch.mit.edu/users/-eberg-/)
+[Contact](https://github.com/FuguFX/Comments/issues/1)
 
-[ウェブサイト](https://fugufx.github.io/)←いい感じにリニューアルしました！（トカゲが苦手な人は注意してください...）
+[Website](https://fugufx.github.io/simple_home.html)←renewal!
 
 
 <!--
