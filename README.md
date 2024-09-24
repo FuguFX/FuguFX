@@ -1,9 +1,9 @@
 ### 元ぐれべです！
-### NewScratchAccount...[@-eberg-](https://scratch.mit.edu/users/-eberg-/)
 [Contact](https://github.com/FuguFX/Comments/issues/1)
 
 [Website](https://fugufx.github.io/simple_home.html)←renewal!
-
+### Scratchのアカウントは作る予定はありません。
+### もし作ったらここに書きます。
 
 <!--
 **FuguFX/FuguFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
